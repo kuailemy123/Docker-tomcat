@@ -7,7 +7,7 @@
 ### 版本
 ---
 
-- 8.131.11 (docker tags: v8.131.11) : OracleJDK 版本为 8.131.11
+- v7.0.86-jdk8 (docker tags: v7.0.86-jdk8) : OracleJDK 版本为 8.131.11
 
 
 ### 使用
